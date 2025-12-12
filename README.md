@@ -358,8 +358,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Citation
 
-**Author**: [Your Name]
-**Email**: [your.email@example.com]
+**Author**: [Máté Róbert]
+**Email**: Strarosoi@gmaul.com]
 **Website**: [yourwebsite.com]
 
 If you use Fluid STRATOS in your research, please cite:
@@ -367,9 +367,9 @@ If you use Fluid STRATOS in your research, please cite:
 ```bibtex
 @software{fluid_stratos_2024,
   title={Fluid STRATOS: A Fluid Dynamics Approach to Cognitive Architecture},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/fluid-stratos}
+  author={Máté Róbert},
+  year={2025},
+  url={https://github.com/silentnoisehun/fluid-stratos}
 }
 ```
 
