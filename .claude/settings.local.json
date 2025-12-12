@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move \"C:\\Users\\mater\\Desktop\\Fluid Oii\\Manifest.txt\" \"C:\\Users\\mater\\Desktop\\Fluid Oii\\docs\"\" && move \"C:UsersmaterDesktopFluid OiiFluid születls.px.txt\" \"C:UsersmaterDesktopFluid Oiidocs\"\")"
+    ]
+  }
+}
