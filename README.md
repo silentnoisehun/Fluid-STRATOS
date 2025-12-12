@@ -56,7 +56,7 @@ Fluid STRATOS reimagines artificial intelligence by treating cognitive processes
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fluid-stratos.git
+git clone https://github.com/silentnoisehun/fluid-stratos.git
 cd fluid-stratos
 
 # Install dependencies
@@ -359,13 +359,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact & Citation
 
 **Author**: [Máté Róbert]
-**Email**: Strarosoi@gmaul.com]
+**Email**: Stratosoi@gmail.com]
 **Website**: [yourwebsite.com]
 
 If you use Fluid STRATOS in your research, please cite:
 
 ```bibtex
-@software{fluid_stratos_2024,
+@software{fluid_stratos_2025,
   title={Fluid STRATOS: A Fluid Dynamics Approach to Cognitive Architecture},
   author={Máté Róbert},
   year={2025},
